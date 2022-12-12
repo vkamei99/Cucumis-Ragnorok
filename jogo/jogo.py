@@ -36,7 +36,7 @@ class Screen:
             if Settings.tela_cont == 1:
                 
                 ato = Tela_inicial(self.tela)
-                Settings.musica.play()
+                #Settings.musica.play()
                 ato.rodar()
 
                 

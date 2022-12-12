@@ -51,9 +51,9 @@ class Settings:
     imagem_areia = pg.image.load("areia.png")
     imagem_grama = pg.image.load("grama.png")
     
-    pg.mixer.init()
-    musica = pg.mixer.Sound(r'./music/ds3.wav')
-    pg.mixer.Sound.set_volume(musica, .5)
+    #pg.mixer.init()
+    #musica = pg.mixer.Sound(r'./music/ds3.wav')
+    #pg.mixer.Sound.set_volume(musica, .5)
     
 
 
